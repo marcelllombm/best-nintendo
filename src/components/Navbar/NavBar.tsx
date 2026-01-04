@@ -40,7 +40,6 @@ export const NavBar = () => {
         <NavBarItem>
           <MedalIcon className="w-4 h-4  " /> Top 10
         </NavBarItem>
-
         <NavBarItem>
           <PathIcon className="w-4 h-4 " /> Walkthroughs
         </NavBarItem>
